@@ -1,0 +1,15 @@
+[1] Digital technologies: Years 7 and 8, 18.03.2022.
+[2] Shannon Campe, Jill Denner, Emily Green, and David Torres, Pair programming in middle school: variations in interactions and behaviors, Computer Science Education 30 (2020), no. 1, 22–46.
+[3] Brian Hanks, Sue Fitzgerald, Ren ́ee McCauley, Laurie Murphy, and Carol Zander, Pair programming in education: a literature review, Computer Science Education 21 (2011), no. 2, 135–173.
+[4] Laurie Williams and Robert R. Kessler, Pair programming illuminated, Addison-Wesley Professional, 2003.
+[5] Norsaremah Salleh, Emilia Mendes, and John Grundy, Empirical studies of pair programming for cs/se teaching in higher education: A systematic literature review, IEEE Transactions on Software Engineering 37 (2011), no. 4, 509–525.
+[6] Karthikeyan Umapathy and Albert D. Ritzhaupt, A meta-analysis of pair-programming in computer programming courses, ACM Transactions on Computing Education 17 (2017), no. 4, 1–13.
+[7] Ester van Laar, Alexander J.A.M. van Deursen, Jan A.G.M. van Dijk, and Jos de Haan, The relation between 21st-century skills and digital skills: A systematic literature review, Computers in Human Behavior 72 (2017), 577–588.
+[8] Xuefeng Wei, Lin Lin, Nanxi Meng, Wei Tan, Siu-Cheung Kong, and Kinshuk, The effectiveness of partial pair programming on elementary school students’ computational thinking skills and self-efficacy, Computers & Education 160 (2021), 104023.
+[9] Laurie Williams, D. Scott McCrickard, Lucas Layman, and Khaled Hussein, Eleven guidelines for implementing pair programming in the classroom, Agile 2008 Conference, IEEE, 2008.
+[10] D. G. McVitie and L. B. Wilson, The stable marriage problem, Communications of the ACM 14 (1971), no. 7, 486–490.
+[11] Franz Zieris and Lutz Prechelt, Does pair programming pay off ?, Rethinking Productivity in Software Engineering (Caitlin Sadowski and Thomas Zimmermann, eds.), Apress, Berkeley, CA, 2019, pp. 251–259.
+[12] Kent Beck, Extreme programming: die revolution ̈are methode f ̈ur softwareentwicklung in kleinen teams;[das manifest], Pearson Deutschland GmbH, 2003.
+[13] Kavitha Karthiekheyan, Irfan Ahmed, and Jalaja Jayalakshmi, Pair programming for software engineering education: an empirical study, Int. Arab J. Inf. Technol. 15 (2018), no. 2, 246–255.
+[14] Sandeep Kaur Kuttal, Kevin Gerstner, and Alexandra Bejarano, Remote pair programming in online cs education: Investigating through a gender lens, 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC), IEEE, 2019, pp. 75–85.
+[15] Adeola Adeliyi, Michel Wermelinger, Karen Kear, and Jon Rosewell, Investigating remote pair programming in part-time distance education, United Kingdom and Ireland Computing Education Research conference (New York, NY, USA) (Joseph Maguire and Quintin Cutts, eds.), ACM, 2021, pp. 1–7.
